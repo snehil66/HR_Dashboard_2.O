@@ -1,4 +1,4 @@
-# HR Dashboard 2.0 with Adaptive Mode Switching
+# HR Dashboard 2.O with Adaptive Mode Switching
 
 ### Dashboard Link: [https://rb.gy/9qh8r8]
 
