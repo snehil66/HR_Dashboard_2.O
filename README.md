@@ -20,8 +20,8 @@ As part of my ongoing efforts to enhance my skills in data analysis and visualiz
    - **Attrition Rate**: 16.12%
 
 3. **Detailed Attrition Analysis**:
-   - **By Age Group**: The highest attrition is observed in the 26-35 age group, indicating a need for targeted retention strategies.
-   - **By Education Field**: Attrition rates are highest in Life Sciences (37.55%) and Medical fields (26.58%), suggesting a focus on engagement in these areas.
+   - **By Age Group**: The highest attrition is observed in the **26-35** age group, indicating a need for targeted retention strategies.
+   - **By Education Field**: Attrition rates are highest in **Life Sciences (37.55%)** and **Medical fields (26.58%)**, suggesting a focus on engagement in these areas.
    - **By Tenure**: Higher attrition rates among newer employees highlight the importance of early tenure engagement.
 
 4. **Job Satisfaction Ratings**:
@@ -38,9 +38,8 @@ As part of my ongoing efforts to enhance my skills in data analysis and visualiz
 
 #### Tools and Technologies Used
 
-- **Data Visualization**: Power BI/Tableau
-- **Data Analysis**: Python, Pandas
-- **Dashboard Development**: JavaScript, D3.js
+- **Data Visualization**: Power BI
+- **Data Analysis**: MS Excel
 
 #### Impact and Applications
 
