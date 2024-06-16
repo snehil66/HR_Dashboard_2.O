@@ -16,7 +16,7 @@ As part of my ongoing efforts to enhance my skills in data analysis and visualiz
    - **Total Employees**: 1,470
    - **Average Years at Company**: 7 years
    - **Average Age of Employees**: 37 years
-   - **Average Salary**: $6,500
+   - **Average Salary**: ₹6,500
    - **Attrition Rate**: 16.12%
 
 3. **Detailed Attrition Analysis**:
