@@ -1,4 +1,4 @@
-# HR Dashboard 2.0 with Adaptive Theme Switching
+# HR Dashboard 2.0 with Adaptive MOde Switching
 
 ### Dashboard Link: [https://rb.gy/j6ejh6]
 
@@ -8,9 +8,9 @@ As part of my ongoing efforts to enhance my skills in data analysis and visualiz
 
 #### Key Features
 
-1. **Dynamic Theme Switching**:
-   - **Light and Dark Themes**: The dashboard includes light and dark theme options to cater to user preferences and reduce eye strain.
-   - **Automatic Theme Switching**: The dashboard automatically transitions between light and dark themes based on the time of day, ensuring optimal visibility and comfort for users.
+1. **Dynamic Mode Switching**:
+   - **Light and Dark Modes**: The dashboard includes light and dark mode options to cater to user preferences and reduce eye strain.
+   - **Automatic Mode Switching**: The dashboard automatically transitions between light and dark modes based on the time of day, ensuring optimal visibility and comfort for users.
 
 2. **Comprehensive Data Insights**:
    - **Total Employees**: 1,470
